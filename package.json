@@ -1,0 +1,26 @@
+{
+  "name": "fuel-easy-project",
+  "version": "1.0.0",
+  "description": "Projeto piloto do fuel easy, abastecimento em casa!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fuel",
+    "easy",
+    "pagamento",
+    "online",
+    "posto",
+    "gasolina",
+    "alcool"
+  ],
+  "author": "Mateus de Paula Veloso",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.6",
+    "express": "^4.16.4",
+    "pg": "^7.7.1"
+  }
+}
